@@ -1,0 +1,14 @@
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\bin\Debug\MegaDesk-Greenway.exe.config
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\bin\Debug\MegaDesk-Greenway.exe
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\bin\Debug\MegaDesk-Greenway.pdb
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\obj\Debug\MegaDesk-Greenway.csprojAssemblyReference.cache
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\obj\Debug\MegaDesk_Greenway.MainMenu.resources
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\obj\Debug\MegaDesk_Greenway.Properties.Resources.resources
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\obj\Debug\MegaDesk-Greenway.csproj.GenerateResource.cache
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\obj\Debug\MegaDesk-Greenway.csproj.CoreCompileInputs.cache
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\obj\Debug\MegaDesk-Greenway.exe
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\obj\Debug\MegaDesk-Greenway.pdb
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\obj\Debug\MegaDesk_Greenway.AddQuote.resources
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\obj\Debug\MegaDesk_Greenway.SearchQuotes.resources
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\obj\Debug\MegaDesk_Greenway.ViewAllQuotes.resources
+C:\Users\Daddy\Desktop\Classes\CIT 365\Megadesk\MegaDesk-Greenway\MegaDesk-Greenway\obj\Debug\MegaDesk_Greenway.DisplayQuote.resources
