@@ -1,0 +1,37 @@
+﻿@page
+@model MyScriptureJournal.Pages.JournalEntries.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>JournalEntry</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.JournalEntry.Date)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.JournalEntry.Date)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.JournalEntry.Book)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.JournalEntry.Book)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.JournalEntry.Notes)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.JournalEntry.Notes)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.JournalEntry.ID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
